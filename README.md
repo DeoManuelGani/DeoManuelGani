@@ -1,4 +1,4 @@
-Hi, I'm Fajar 👋
+Hi, I'm Deo 👋
 ---
 **📌About** <br>
 My name is Deo Manuel Gani, an undergraduate student at Binus University currently studying game development
