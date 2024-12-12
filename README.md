@@ -4,7 +4,7 @@ Hi, I'm Deo 👋
 My name is Deo Manuel Gani, an undergraduate student at Binus University currently studying game development
 
 **📩Email** <br>
-deoamanuelgani@gmai.com
+deoamanuelgani@gmail.com
 
 <br>
 
